@@ -64,7 +64,7 @@ public class HamcrestTutorialTest {
 	}
 
 	/**
-	 * Test para comprobar que el n�mero proporcionado es menor que con el que
+	 * Test para comprobar que el numero proporcionado es menor que con el que
 	 * se compara.
 	 */
 	@Test
@@ -74,7 +74,7 @@ public class HamcrestTutorialTest {
 	}
 
 	/**
-	 * Test para comprobar que el n�mero proporcionado es menor que con el que
+	 * Test para comprobar que el numero proporcionado es menor que con el que
 	 * se compara.
 	 */
 	@Test
@@ -162,7 +162,7 @@ public class HamcrestTutorialTest {
 	}
 
 	/**
-	 * Test para comprobar que un n�mero esta pr�ximo a otro dentro de una
+	 * Test para comprobar que un numero esta pr�ximo a otro dentro de una
 	 * cierta cantidad.
 	 */
 	@Test
@@ -232,7 +232,7 @@ public class HamcrestTutorialTest {
 	}
 
 	/**
-	 * Test para comrpobar si una colecci�n no es null.
+	 * Test para comrpobar si una coleccionno es null.
 	 */
 	@Test
 	public void comprobarSiColeccionNoEsNull() {
@@ -248,7 +248,7 @@ public class HamcrestTutorialTest {
 	}
 
 	/**
-	 * Test para comrpobar si una colecci�n est� vac�a.
+	 * Test para comrpobar si una coleccionest� vacia.
 	 */
 	@Test
 	public void comprobarColeccionVacia() {
