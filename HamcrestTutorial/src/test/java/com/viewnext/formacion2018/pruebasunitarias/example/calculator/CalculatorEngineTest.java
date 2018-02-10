@@ -1,7 +1,9 @@
-package example.calculator;
+package com.viewnext.formacion2018.pruebasunitarias.example.calculator;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import com.viewnext.formacion2018.pruebasunitarias.example.calculator.CalculatorEngine;
 
 import static junit.framework.TestCase.assertEquals;
 

@@ -1,4 +1,4 @@
-package com.insags.hamcresttutorial;
+package com.viewnext.formacion2018.pruebasunitarias.hamcresttutorial;
 
 import static org.hamcrest.Matchers.allOf;
 import static org.hamcrest.Matchers.any;
@@ -39,6 +39,18 @@ import java.util.Set;
 
 import org.junit.Test;
 
+/**
+ * 
+ * HamcrestTutorial
+ * com.viewnext.formacion2018.pruebasunitarias.hamcresttutorial
+ * 
+ * HamcrestTutorialTest
+ * 
+ * @author (Viewnext/IBM)
+ * @version 0.1
+ * @since 10 feb. 2018
+ *
+ */
 public class HamcrestTutorialTest {
 
 	/**

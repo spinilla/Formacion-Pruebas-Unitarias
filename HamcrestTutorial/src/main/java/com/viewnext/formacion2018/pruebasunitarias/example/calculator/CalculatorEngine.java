@@ -1,4 +1,17 @@
-package example.calculator;
+package com.viewnext.formacion2018.pruebasunitarias.example.calculator;
+
+/**
+ * 
+ * HamcrestTutorial
+ * com.viewnext.formacion2018.pruebasunitarias.example.calculator
+ * 
+ * CalculatorEngine
+ * 
+ * @author (Viewnext/IBM)
+ * @version 0.1
+ * @since 10 feb. 2018
+ *
+ */
 public class CalculatorEngine {
 
     private enum Operator {
