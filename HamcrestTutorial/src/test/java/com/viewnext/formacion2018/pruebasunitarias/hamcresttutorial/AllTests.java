@@ -17,7 +17,7 @@ import org.junit.runners.Suite.SuiteClasses;
  *
  */
 @RunWith(Suite.class)
-@SuiteClasses({ SolucionesHamcrestTutorialTest.class, HamcrestTutorialTest.class })
+@SuiteClasses({ HamcrestTutorialTest.class })
 public class AllTests {
 
 }
